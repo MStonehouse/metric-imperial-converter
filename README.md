@@ -1,3 +1,3 @@
 # metric-imperial-converter
 
-Metric Imperial Converter - Free Code Camp Exercise
+Metric Imperial Converter - Free Code Camp Project
